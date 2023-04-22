@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ribence Kadel</h1>
 <h3 align="center">A creative problem-solver from Nepal.</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw1O3O72WSlkJyTHSDw3f0HQ&ust=1682235932622000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODTo7mAvf4CFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ribslearnstocode&label=Profile%20views&color=0e75b6&style=flat" alt="ribslearnstocode" /> </p>
 
