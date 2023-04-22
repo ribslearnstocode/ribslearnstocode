@@ -1,3 +1,4 @@
+![logo](https://github.com/ribslearnstocode/ribslearnstocode/blob/main/welcome%20to%20MY.png)
 <h1 align="center">Hi 👋, I'm Ribence Kadel</h1>
 <h3 align="center">A creative problem-solver from Nepal.</h3>
 
