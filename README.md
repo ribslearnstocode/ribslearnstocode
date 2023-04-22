@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ribslearnstocode" alt="ribslearnstocode" /></a> </p>
 
-- 💬 Ask me about **App Development, Machine Learning, Figma Designing**
+- 💬 Ask me about **App Development, Machine Learning, Figma UI/UX Designing**
 
 - 📫 How to reach me **ceo@ribence.com.np**
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/rib_ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rib_ss" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/reebs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="reebs" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/reebs](https://www.youtube.com/@reebs-ai)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="reebs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
